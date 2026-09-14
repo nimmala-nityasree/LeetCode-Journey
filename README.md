@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 ## Union-Find
 |  |
 | ------- |
