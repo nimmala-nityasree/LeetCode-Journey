@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
