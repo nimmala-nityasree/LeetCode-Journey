@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
