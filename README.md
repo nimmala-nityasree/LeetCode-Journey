@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
