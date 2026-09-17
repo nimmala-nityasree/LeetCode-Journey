@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
