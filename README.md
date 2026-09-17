@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
