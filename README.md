@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0054-spiral-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
