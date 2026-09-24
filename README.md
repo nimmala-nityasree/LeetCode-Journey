@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
