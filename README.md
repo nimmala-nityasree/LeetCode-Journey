@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
