@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0274-h-index) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
