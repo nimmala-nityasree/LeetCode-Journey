@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
