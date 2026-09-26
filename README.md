@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
