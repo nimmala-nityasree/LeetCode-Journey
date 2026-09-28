@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
