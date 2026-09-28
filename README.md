@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [0905-sort-array-by-parity](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
