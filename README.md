@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
