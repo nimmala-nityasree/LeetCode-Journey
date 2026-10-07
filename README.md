@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
