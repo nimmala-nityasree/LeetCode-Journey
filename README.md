@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
