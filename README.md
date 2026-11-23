@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
@@ -380,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nimmala-nityasree/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
